@@ -4,9 +4,9 @@ React Study , only available in local state
 
 ## User Stories
 
-- [x] Insert Todo Item
-- [x] Toggle Todo State ( Planned, Done )
-- [x] Remove Todo
+- [x] Insert Todo Item                       20.2.15
+- [x] Toggle Todo State ( Planned, Done )    20.2.15
+- [x] Remove Todo                            20.2.15
 
 ### [ Insert Todo Item ]
 
